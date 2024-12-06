@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://vikash0p.vercel.app/](https://vikash0p.vercel.app/)
 
-- ⚡ Fun fact **Mount Everest isn't the tallest mountain on Earth.**
+- ⚡ Fun fact ** INDIA IS NOT READY FOR BEGINNERS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

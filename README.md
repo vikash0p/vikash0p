@@ -32,8 +32,9 @@
 
 - ⚡ Fun fact ** INDIA IS NOT READY FOR BEGINNERS.**
 
-<h3 align="left">Connect with me:</h3>
- 
+<h2 align="left">Connect with me:</h2>
+<br/>
+
 <div align="left"> 
   <a href="mailto:vikash752200@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -48,9 +49,10 @@
 
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,framer" alt="Tools and Frameworks" /><br/>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nextjs,mysql,redux,redux-toolkit" alt="Languages and Technologies" /><br/>
 </div>

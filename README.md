@@ -1,7 +1,8 @@
 [![MasterHead](https://res.cloudinary.com/dhttnehwp/image/upload/v1733463611/vikashProtfolio/xaxlq0i3snq5yjiegrwn.gif)](https://vikash0p.io)
 
-<h1 align="center">Hi 👋, I'm VIKASH</h1>
-<h3 align="center">Skilled in building scalable, responsive web apps with React, Next.js, TypeScript, Tailwind CSS, Redux, and performance optimization.</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+VIKASH+ PANDAT!;" />
+</h1><h3 align="center">Skilled in building scalable, responsive web apps with React, Next.js, TypeScript, Tailwind CSS, Redux, and performance optimization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash0p&label=Profile%20views&color=0e75b6&style=flat" alt="vikash0p" /> </p>
 
